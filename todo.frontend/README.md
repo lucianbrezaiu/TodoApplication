@@ -1,1 +1,3 @@
-npm start
+- react application, represents a todo list
+- to run, execute the command "npm start" in the current folder
+- the application will start at http://localhost:3000/

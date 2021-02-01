@@ -1,3 +1,4 @@
-- to run the api, run the command "dotnet run" in ./ToDoList.
-- the application will start at: https://localhost:5001/
-- if not exits, the database is created automatically
+- asp dot net 3.1 application, which represents an api to be consumed
+- to run, execute the command "dotnet run" in ./ToDoList.
+- the application will start at: https://localhost:5001/, the default route is https://localhost:5001/notes
+- if not exits, the database is created automatically at running
