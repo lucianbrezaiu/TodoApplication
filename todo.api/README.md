@@ -1,0 +1,3 @@
+- to run the api, run the command "dotnet run" in ./ToDoList.
+- the application will start at: https://localhost:5001/
+- if not exits, the database is created automatically
